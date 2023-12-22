@@ -8,3 +8,7 @@ npm install
 npm install @chatscope/chat-ui-kit-react
 npm run dev
 ```
+
+# how chat gpt work in prroccessing messages
+
+![Your Alt Text](/chatgpt.png)
